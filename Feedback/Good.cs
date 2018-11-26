@@ -2,6 +2,8 @@
 
 namespace Feedback
 {
+
+
     public class Good
     {
         public int Id { get; set; }
