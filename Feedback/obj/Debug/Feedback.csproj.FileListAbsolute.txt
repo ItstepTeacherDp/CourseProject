@@ -1,0 +1,12 @@
+C:\Users\us\Desktop\ADO.NET\12. Feedback\Feedback\bin\Debug\Feedback.exe.config
+C:\Users\us\Desktop\ADO.NET\12. Feedback\Feedback\bin\Debug\Feedback.exe
+C:\Users\us\Desktop\ADO.NET\12. Feedback\Feedback\bin\Debug\Feedback.pdb
+C:\Users\us\Desktop\ADO.NET\12. Feedback\Feedback\bin\Debug\EntityFramework.dll
+C:\Users\us\Desktop\ADO.NET\12. Feedback\Feedback\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\us\Desktop\ADO.NET\12. Feedback\Feedback\bin\Debug\EntityFramework.xml
+C:\Users\us\Desktop\ADO.NET\12. Feedback\Feedback\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\us\Desktop\ADO.NET\12. Feedback\Feedback\obj\Debug\Feedback.csprojAssemblyReference.cache
+C:\Users\us\Desktop\ADO.NET\12. Feedback\Feedback\obj\Debug\Feedback.csproj.CoreCompileInputs.cache
+C:\Users\us\Desktop\ADO.NET\12. Feedback\Feedback\obj\Debug\Feedback.csproj.CopyComplete
+C:\Users\us\Desktop\ADO.NET\12. Feedback\Feedback\obj\Debug\Feedback.exe
+C:\Users\us\Desktop\ADO.NET\12. Feedback\Feedback\obj\Debug\Feedback.pdb
